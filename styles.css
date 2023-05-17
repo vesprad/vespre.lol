@@ -2,8 +2,11 @@ body {background-color: black;
 padding-top: 5%;
   padding-right: 15%;
   padding-bottom: 5%;
-  padding-left: 15%;
-  h1 {color: red;}
+  padding-left: 15%;}
+  
+  
+h1 {color: red;}
+  
 p {color: powderblue;}
 
 img.resize {
