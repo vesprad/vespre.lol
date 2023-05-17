@@ -5,7 +5,8 @@ padding-top: 5%;
   padding-left: 15%;}
   
   
-h1 {color: red;}
+h1 {color: red;
+font-family:monospace;}
   
 p {color: powderblue;
 font-family:monospace;}
