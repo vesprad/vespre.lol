@@ -1,8 +1,8 @@
-body {background-color: powderblue;
-    margin: 100px;
-    padding: 100px;}
+body {background-color: black;
+    margin: 15%;
+    padding: 15%;}
 h1 {color: red;}
-p {color: blue;}
+p {color: powderblue;}
 
 img.resize {
   width:400px;
