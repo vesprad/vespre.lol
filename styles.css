@@ -27,10 +27,27 @@ td, th {
   padding: 20px;
 }
 
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #718F93;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #718F93;
+  background-color: white;
+    text-decoration: none;
+
+}
+a:active {
+  color: #718F93;
+  background-color: white;
+    text-decoration: none;
+
 }
 
 /* boton hover palabritas */
