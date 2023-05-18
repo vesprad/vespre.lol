@@ -28,7 +28,7 @@ td, th {
 }
 
 a:link {
-  color: white;
+  color: red;
   background-color: transparent;
   text-decoration: none;
 }
@@ -40,13 +40,13 @@ a:visited {
 a:hover {
   color: #718F93;
   background-color: white;
-    text-decoration: none;
+  text-decoration: none;
 
 }
 a:active {
   color: #718F93;
   background-color: white;
-    text-decoration: none;
+  text-decoration: none;
 
 }
 
@@ -63,7 +63,7 @@ a:active {
   visibility: hidden;
   font-family: monospace;
   width: 320px;
-  background-color: grey;
+  background-color: #485B5E;
   color: #fff;
   text-align: center;
   border-radius: 6px;
